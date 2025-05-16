@@ -1,0 +1,19 @@
+.digital-clock {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: flex-start;
+
+
+  .number-box {
+    padding: 2rem;
+    border-radius: 12px;
+    background: rgb(41, 40, 40);
+    span {
+      margin: 1rem;
+      color: green;
+    }
+  }
+}
+
+
